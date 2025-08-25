@@ -1,5 +1,5 @@
 # Rockbuster_Stealth_Data_Analysis_SQL_Project
-![Movie Night](https://github.com/user-attachments/assets/06629afc-de67-4ec5-be90-1b9b1afb1cf5)
+<img width="1586" height="703" alt="Tableau_Chart(5)_Task 5 8" src="https://github.com/user-attachments/assets/222a0c5b-2d51-4f62-83de-b33d98f24edb" />
 
 **This is a data analysis project for Rockbuster Stealth’s business intelligence (BI) department 
 to help with the launch strategy for the new online video service.**
