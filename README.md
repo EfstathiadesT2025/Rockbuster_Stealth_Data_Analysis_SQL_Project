@@ -1,4 +1,4 @@
-# Rockbuster_Stealth_Data_Analysis_SQL_Project
+# Rockbuster Stealth Analysis
 <img width="1586" height="703" alt="Tableau_Chart(5)_Task 5 8" src="https://github.com/user-attachments/assets/222a0c5b-2d51-4f62-83de-b33d98f24edb" />
 
 **This is a data analysis project for Rockbuster Stealth’s business intelligence (BI) department 
